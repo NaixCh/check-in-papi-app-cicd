@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>check-in-papi-app</artifactId>
+	<artifactId>check-in-papi-app-chris</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
