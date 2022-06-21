@@ -9,7 +9,7 @@
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>check-in-papi-app</name>
+	<name>check-in-papi-app-chris</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,8 +18,8 @@
 		<app.runtime>4.4.0-20220420</app.runtime>
 		<mule.maven.plugin.version>3.5.4</mule.maven.plugin.version>
 		<!-- API Specification -->
-		<api.groupId>1014416b-7a3b-4d91-95f0-0ec0dc75ae6c</api.groupId>
-		<api.artifactId>check-in-papi</api.artifactId>
+		<api.groupId>bd204309-4d60-4f2c-9f16-cba5044c9992</api.groupId>
+		<api.artifactId>check-in-papi-chris</api.artifactId>
 		<api.version>1.0.0</api.version>
 	</properties>
 
